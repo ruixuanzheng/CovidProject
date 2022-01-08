@@ -273,7 +273,7 @@ fig.update_layout(
            'x': 0.5})
 fig.update_coloraxes(colorbar_title="Confirmed Cases", colorscale="Blues")
 
-# fig.show()
+fig.show()
 
 
 # Since then, we have completed all parts of data visualization work and let's move forward to the prediction part.
